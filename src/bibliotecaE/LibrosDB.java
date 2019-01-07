@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package biblioteca;
+package bibliotecaE;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -15,10 +15,7 @@ import biblioteca.Libros_Principal;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author Ernesto
- */
+
 public class LibrosDB {
     Connection conn = null;
     Statement st = null;

@@ -3,12 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package biblioteca;
+package bibliotecaE;
 
-/**
- *
- * @author Ernesto
- */
+
 public class Libros_Principal {
     private int idlibro;
     private int Anio_Publi;

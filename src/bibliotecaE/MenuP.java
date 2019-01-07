@@ -3,17 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package biblioteca;
+package bibliotecaE;
 
 import java.awt.Color;
 import javax.swing.JFrame;
 import biblioteca.Libros;
 
 
-/**
- *
- * @author Ernesto
- */
 public class MenuP extends javax.swing.JFrame {
 
     /**

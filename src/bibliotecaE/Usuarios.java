@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package biblioteca;
+package bibliotecaE;
 
 import java.awt.Color;
 import java.sql.Connection;
@@ -12,10 +12,6 @@ import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Ernesto
- */
 public class Usuarios extends javax.swing.JFrame {
 
     public Usuarios() {

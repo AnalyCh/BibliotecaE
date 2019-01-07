@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package biblioteca;
+package bibliotecaE;
 
 import java.awt.Color;
 import java.awt.List;
@@ -19,10 +19,7 @@ import javax.swing.JTable;
 import javax.swing.ListSelectionModel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Ernesto
- */
+
 public class Libros extends javax.swing.JFrame {
     
     ArrayList<Libros_Principal> Libros_P;
